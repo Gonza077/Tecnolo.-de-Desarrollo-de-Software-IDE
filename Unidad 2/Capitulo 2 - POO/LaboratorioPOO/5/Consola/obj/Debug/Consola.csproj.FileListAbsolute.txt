@@ -1,0 +1,14 @@
+C:\Users\Gonza y Jere\Desktop\Gonza\Facultad\4°\.Net\Trabajos VisualStudio\Laboratorios\LaboratorioPOO\5\Consola\bin\Debug\LaboratorioPOO.Consola.exe.config
+C:\Users\Gonza y Jere\Desktop\Gonza\Facultad\4°\.Net\Trabajos VisualStudio\Laboratorios\LaboratorioPOO\5\Consola\bin\Debug\LaboratorioPOO.Consola.exe
+C:\Users\Gonza y Jere\Desktop\Gonza\Facultad\4°\.Net\Trabajos VisualStudio\Laboratorios\LaboratorioPOO\5\Consola\bin\Debug\LaboratorioPOO.Consola.pdb
+C:\Users\Gonza y Jere\Desktop\Gonza\Facultad\4°\.Net\Trabajos VisualStudio\Laboratorios\LaboratorioPOO\5\Consola\obj\Debug\Consola.csprojAssemblyReference.cache
+C:\Users\Gonza y Jere\Desktop\Gonza\Facultad\4°\.Net\Trabajos VisualStudio\Laboratorios\LaboratorioPOO\5\Consola\obj\Debug\Consola.csproj.CoreCompileInputs.cache
+C:\Users\Gonza y Jere\Desktop\Gonza\Facultad\4°\.Net\Trabajos VisualStudio\Laboratorios\LaboratorioPOO\5\Consola\obj\Debug\LaboratorioPOO.Consola.exe
+C:\Users\Gonza y Jere\Desktop\Gonza\Facultad\4°\.Net\Trabajos VisualStudio\Laboratorios\LaboratorioPOO\5\Consola\obj\Debug\LaboratorioPOO.Consola.pdb
+C:\Users\Jeremias\Desktop\Gonza\Facultad\.Net\Trabajos VisualStudio\Laboratorios\LaboratorioPOO\5\Consola\obj\Debug\Consola.csprojAssemblyReference.cache
+C:\Users\Jeremias\Desktop\Gonza\Facultad\.Net\Trabajos VisualStudio\Laboratorios\LaboratorioPOO\5\Consola\obj\Debug\Consola.csproj.CoreCompileInputs.cache
+C:\Users\Jeremias\Desktop\Gonza\Facultad\.Net\Trabajos VisualStudio\Laboratorios\LaboratorioPOO\5\Consola\obj\Debug\LaboratorioPOO.Consola.exe
+C:\Users\Jeremias\Desktop\Gonza\Facultad\.Net\Trabajos VisualStudio\Laboratorios\LaboratorioPOO\5\Consola\obj\Debug\LaboratorioPOO.Consola.pdb
+C:\Users\Jeremias\Desktop\Gonza\Facultad\.Net\Trabajos VisualStudio\Laboratorios\LaboratorioPOO\5\Consola\bin\Debug\LaboratorioPOO.Consola.exe.config
+C:\Users\Jeremias\Desktop\Gonza\Facultad\.Net\Trabajos VisualStudio\Laboratorios\LaboratorioPOO\5\Consola\bin\Debug\LaboratorioPOO.Consola.exe
+C:\Users\Jeremias\Desktop\Gonza\Facultad\.Net\Trabajos VisualStudio\Laboratorios\LaboratorioPOO\5\Consola\bin\Debug\LaboratorioPOO.Consola.pdb

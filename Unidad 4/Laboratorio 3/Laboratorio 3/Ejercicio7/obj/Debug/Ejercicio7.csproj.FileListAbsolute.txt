@@ -1,0 +1,10 @@
+C:\Users\Gonza y Jere\Desktop\Gonza\Drive PC\Facultad\4°\.Net\Laboratorios\Unidad 4\Laboratorio 3\Laboratorio 3\Ejercicio7\bin\Debug\Ejercicio7.exe.config
+C:\Users\Gonza y Jere\Desktop\Gonza\Drive PC\Facultad\4°\.Net\Laboratorios\Unidad 4\Laboratorio 3\Laboratorio 3\Ejercicio7\bin\Debug\Ejercicio7.exe
+C:\Users\Gonza y Jere\Desktop\Gonza\Drive PC\Facultad\4°\.Net\Laboratorios\Unidad 4\Laboratorio 3\Laboratorio 3\Ejercicio7\bin\Debug\Ejercicio7.pdb
+C:\Users\Gonza y Jere\Desktop\Gonza\Drive PC\Facultad\4°\.Net\Laboratorios\Unidad 4\Laboratorio 3\Laboratorio 3\Ejercicio7\obj\Debug\Ejercicio7.csprojAssemblyReference.cache
+C:\Users\Gonza y Jere\Desktop\Gonza\Drive PC\Facultad\4°\.Net\Laboratorios\Unidad 4\Laboratorio 3\Laboratorio 3\Ejercicio7\obj\Debug\Ejercicio7.Form1.resources
+C:\Users\Gonza y Jere\Desktop\Gonza\Drive PC\Facultad\4°\.Net\Laboratorios\Unidad 4\Laboratorio 3\Laboratorio 3\Ejercicio7\obj\Debug\Ejercicio7.Properties.Resources.resources
+C:\Users\Gonza y Jere\Desktop\Gonza\Drive PC\Facultad\4°\.Net\Laboratorios\Unidad 4\Laboratorio 3\Laboratorio 3\Ejercicio7\obj\Debug\Ejercicio7.csproj.GenerateResource.cache
+C:\Users\Gonza y Jere\Desktop\Gonza\Drive PC\Facultad\4°\.Net\Laboratorios\Unidad 4\Laboratorio 3\Laboratorio 3\Ejercicio7\obj\Debug\Ejercicio7.csproj.CoreCompileInputs.cache
+C:\Users\Gonza y Jere\Desktop\Gonza\Drive PC\Facultad\4°\.Net\Laboratorios\Unidad 4\Laboratorio 3\Laboratorio 3\Ejercicio7\obj\Debug\Ejercicio7.exe
+C:\Users\Gonza y Jere\Desktop\Gonza\Drive PC\Facultad\4°\.Net\Laboratorios\Unidad 4\Laboratorio 3\Laboratorio 3\Ejercicio7\obj\Debug\Ejercicio7.pdb

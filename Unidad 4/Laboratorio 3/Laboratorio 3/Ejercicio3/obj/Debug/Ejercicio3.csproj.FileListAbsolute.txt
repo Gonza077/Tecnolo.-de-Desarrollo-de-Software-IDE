@@ -1,0 +1,14 @@
+C:\Users\Gonza y Jere\Desktop\Gonza\Drive PC\Facultad\4°\.Net\Laboratorios\Unidad 4\Laboratorio 3\Laboratorio 3\Ejercicio 3\bin\Debug\Laboratorio3.Ejercicio3.exe.config
+C:\Users\Gonza y Jere\Desktop\Gonza\Drive PC\Facultad\4°\.Net\Laboratorios\Unidad 4\Laboratorio 3\Laboratorio 3\Ejercicio 3\bin\Debug\Laboratorio3.Ejercicio3.exe
+C:\Users\Gonza y Jere\Desktop\Gonza\Drive PC\Facultad\4°\.Net\Laboratorios\Unidad 4\Laboratorio 3\Laboratorio 3\Ejercicio 3\bin\Debug\Laboratorio3.Ejercicio3.pdb
+C:\Users\Gonza y Jere\Desktop\Gonza\Drive PC\Facultad\4°\.Net\Laboratorios\Unidad 4\Laboratorio 3\Laboratorio 3\Ejercicio 3\obj\Debug\Ejercicio3.csprojAssemblyReference.cache
+C:\Users\Gonza y Jere\Desktop\Gonza\Drive PC\Facultad\4°\.Net\Laboratorios\Unidad 4\Laboratorio 3\Laboratorio 3\Ejercicio 3\obj\Debug\Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\Gonza y Jere\Desktop\Gonza\Drive PC\Facultad\4°\.Net\Laboratorios\Unidad 4\Laboratorio 3\Laboratorio 3\Ejercicio 3\obj\Debug\Laboratorio3.Ejercicio3.exe
+C:\Users\Gonza y Jere\Desktop\Gonza\Drive PC\Facultad\4°\.Net\Laboratorios\Unidad 4\Laboratorio 3\Laboratorio 3\Ejercicio 3\obj\Debug\Laboratorio3.Ejercicio3.pdb
+C:\Users\Gonza y Jere\Desktop\Gonza\Drive PC\Facultad\4°\.Net\Laboratorios\Unidad 4\Laboratorio 3\Laboratorio 3\Ejercicio3\bin\Debug\Laboratorio3.Ejercicio3.exe.config
+C:\Users\Gonza y Jere\Desktop\Gonza\Drive PC\Facultad\4°\.Net\Laboratorios\Unidad 4\Laboratorio 3\Laboratorio 3\Ejercicio3\bin\Debug\Laboratorio3.Ejercicio3.exe
+C:\Users\Gonza y Jere\Desktop\Gonza\Drive PC\Facultad\4°\.Net\Laboratorios\Unidad 4\Laboratorio 3\Laboratorio 3\Ejercicio3\bin\Debug\Laboratorio3.Ejercicio3.pdb
+C:\Users\Gonza y Jere\Desktop\Gonza\Drive PC\Facultad\4°\.Net\Laboratorios\Unidad 4\Laboratorio 3\Laboratorio 3\Ejercicio3\obj\Debug\Ejercicio3.csprojAssemblyReference.cache
+C:\Users\Gonza y Jere\Desktop\Gonza\Drive PC\Facultad\4°\.Net\Laboratorios\Unidad 4\Laboratorio 3\Laboratorio 3\Ejercicio3\obj\Debug\Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\Gonza y Jere\Desktop\Gonza\Drive PC\Facultad\4°\.Net\Laboratorios\Unidad 4\Laboratorio 3\Laboratorio 3\Ejercicio3\obj\Debug\Laboratorio3.Ejercicio3.exe
+C:\Users\Gonza y Jere\Desktop\Gonza\Drive PC\Facultad\4°\.Net\Laboratorios\Unidad 4\Laboratorio 3\Laboratorio 3\Ejercicio3\obj\Debug\Laboratorio3.Ejercicio3.pdb

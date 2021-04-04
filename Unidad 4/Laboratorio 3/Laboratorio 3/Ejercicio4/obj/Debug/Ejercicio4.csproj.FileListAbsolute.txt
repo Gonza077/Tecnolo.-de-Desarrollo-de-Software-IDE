@@ -1,0 +1,7 @@
+C:\Users\Gonza y Jere\Desktop\Gonza\Drive PC\Facultad\4°\.Net\Laboratorios\Unidad 4\Laboratorio 3\Laboratorio 3\Ejercicio4\bin\Debug\Laboratorio3.Ejercicio4.exe.config
+C:\Users\Gonza y Jere\Desktop\Gonza\Drive PC\Facultad\4°\.Net\Laboratorios\Unidad 4\Laboratorio 3\Laboratorio 3\Ejercicio4\bin\Debug\Laboratorio3.Ejercicio4.exe
+C:\Users\Gonza y Jere\Desktop\Gonza\Drive PC\Facultad\4°\.Net\Laboratorios\Unidad 4\Laboratorio 3\Laboratorio 3\Ejercicio4\bin\Debug\Laboratorio3.Ejercicio4.pdb
+C:\Users\Gonza y Jere\Desktop\Gonza\Drive PC\Facultad\4°\.Net\Laboratorios\Unidad 4\Laboratorio 3\Laboratorio 3\Ejercicio4\obj\Debug\Ejercicio4.csprojAssemblyReference.cache
+C:\Users\Gonza y Jere\Desktop\Gonza\Drive PC\Facultad\4°\.Net\Laboratorios\Unidad 4\Laboratorio 3\Laboratorio 3\Ejercicio4\obj\Debug\Ejercicio4.csproj.CoreCompileInputs.cache
+C:\Users\Gonza y Jere\Desktop\Gonza\Drive PC\Facultad\4°\.Net\Laboratorios\Unidad 4\Laboratorio 3\Laboratorio 3\Ejercicio4\obj\Debug\Laboratorio3.Ejercicio4.exe
+C:\Users\Gonza y Jere\Desktop\Gonza\Drive PC\Facultad\4°\.Net\Laboratorios\Unidad 4\Laboratorio 3\Laboratorio 3\Ejercicio4\obj\Debug\Laboratorio3.Ejercicio4.pdb

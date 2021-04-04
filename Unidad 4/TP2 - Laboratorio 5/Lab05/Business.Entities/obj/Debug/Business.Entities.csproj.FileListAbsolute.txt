@@ -1,0 +1,6 @@
+C:\Users\Gonza y Jere\Desktop\Gonza\Drive PC\Facultad\4°\.Net\Laboratorios\Unidad 4\TP2 - Laboratorio 5\Lab05\Business.Entities\bin\Debug\Academia.Business.Entities.dll
+C:\Users\Gonza y Jere\Desktop\Gonza\Drive PC\Facultad\4°\.Net\Laboratorios\Unidad 4\TP2 - Laboratorio 5\Lab05\Business.Entities\bin\Debug\Academia.Business.Entities.pdb
+C:\Users\Gonza y Jere\Desktop\Gonza\Drive PC\Facultad\4°\.Net\Laboratorios\Unidad 4\TP2 - Laboratorio 5\Lab05\Business.Entities\obj\Debug\Business.Entities.csprojAssemblyReference.cache
+C:\Users\Gonza y Jere\Desktop\Gonza\Drive PC\Facultad\4°\.Net\Laboratorios\Unidad 4\TP2 - Laboratorio 5\Lab05\Business.Entities\obj\Debug\Business.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Gonza y Jere\Desktop\Gonza\Drive PC\Facultad\4°\.Net\Laboratorios\Unidad 4\TP2 - Laboratorio 5\Lab05\Business.Entities\obj\Debug\Academia.Business.Entities.dll
+C:\Users\Gonza y Jere\Desktop\Gonza\Drive PC\Facultad\4°\.Net\Laboratorios\Unidad 4\TP2 - Laboratorio 5\Lab05\Business.Entities\obj\Debug\Academia.Business.Entities.pdb

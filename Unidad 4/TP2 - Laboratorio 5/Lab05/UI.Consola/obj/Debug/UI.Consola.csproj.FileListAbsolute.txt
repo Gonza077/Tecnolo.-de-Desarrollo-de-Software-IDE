@@ -1,0 +1,14 @@
+C:\Users\Gonza y Jere\Desktop\Gonza\Drive PC\Facultad\4°\.Net\Laboratorios\Unidad 4\TP2 - Laboratorio 5\Lab05\UI.Consola\bin\Debug\Academia.UI.Consola.exe.config
+C:\Users\Gonza y Jere\Desktop\Gonza\Drive PC\Facultad\4°\.Net\Laboratorios\Unidad 4\TP2 - Laboratorio 5\Lab05\UI.Consola\bin\Debug\Academia.UI.Consola.exe
+C:\Users\Gonza y Jere\Desktop\Gonza\Drive PC\Facultad\4°\.Net\Laboratorios\Unidad 4\TP2 - Laboratorio 5\Lab05\UI.Consola\bin\Debug\Academia.UI.Consola.pdb
+C:\Users\Gonza y Jere\Desktop\Gonza\Drive PC\Facultad\4°\.Net\Laboratorios\Unidad 4\TP2 - Laboratorio 5\Lab05\UI.Consola\bin\Debug\Academia.Business.Entities.dll
+C:\Users\Gonza y Jere\Desktop\Gonza\Drive PC\Facultad\4°\.Net\Laboratorios\Unidad 4\TP2 - Laboratorio 5\Lab05\UI.Consola\bin\Debug\Academia.Business.Logic.dll
+C:\Users\Gonza y Jere\Desktop\Gonza\Drive PC\Facultad\4°\.Net\Laboratorios\Unidad 4\TP2 - Laboratorio 5\Lab05\UI.Consola\bin\Debug\Academia.Data.Database.dll
+C:\Users\Gonza y Jere\Desktop\Gonza\Drive PC\Facultad\4°\.Net\Laboratorios\Unidad 4\TP2 - Laboratorio 5\Lab05\UI.Consola\bin\Debug\Academia.Business.Entities.pdb
+C:\Users\Gonza y Jere\Desktop\Gonza\Drive PC\Facultad\4°\.Net\Laboratorios\Unidad 4\TP2 - Laboratorio 5\Lab05\UI.Consola\bin\Debug\Academia.Business.Logic.pdb
+C:\Users\Gonza y Jere\Desktop\Gonza\Drive PC\Facultad\4°\.Net\Laboratorios\Unidad 4\TP2 - Laboratorio 5\Lab05\UI.Consola\bin\Debug\Academia.Data.Database.pdb
+C:\Users\Gonza y Jere\Desktop\Gonza\Drive PC\Facultad\4°\.Net\Laboratorios\Unidad 4\TP2 - Laboratorio 5\Lab05\UI.Consola\obj\Debug\UI.Consola.csproj.CoreCompileInputs.cache
+C:\Users\Gonza y Jere\Desktop\Gonza\Drive PC\Facultad\4°\.Net\Laboratorios\Unidad 4\TP2 - Laboratorio 5\Lab05\UI.Consola\obj\Debug\UI.Consola.csproj.CopyComplete
+C:\Users\Gonza y Jere\Desktop\Gonza\Drive PC\Facultad\4°\.Net\Laboratorios\Unidad 4\TP2 - Laboratorio 5\Lab05\UI.Consola\obj\Debug\Academia.UI.Consola.exe
+C:\Users\Gonza y Jere\Desktop\Gonza\Drive PC\Facultad\4°\.Net\Laboratorios\Unidad 4\TP2 - Laboratorio 5\Lab05\UI.Consola\obj\Debug\Academia.UI.Consola.pdb
+C:\Users\Gonza y Jere\Desktop\Gonza\Drive PC\Facultad\4°\.Net\Laboratorios\Unidad 4\TP2 - Laboratorio 5\Lab05\UI.Consola\obj\Debug\UI.Consola.csprojAssemblyReference.cache
