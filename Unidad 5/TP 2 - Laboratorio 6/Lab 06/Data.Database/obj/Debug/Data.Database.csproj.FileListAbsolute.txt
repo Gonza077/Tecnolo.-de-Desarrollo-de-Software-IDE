@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\Gonza\Drive PC\Facultad\4°\.Net\Laboratorios\Unidad 5\TP 2 - Laboratorio 6\Lab 06\Data.Database\bin\Debug\Academia.Data.Database.dll
+C:\Users\User\Desktop\Gonza\Drive PC\Facultad\4°\.Net\Laboratorios\Unidad 5\TP 2 - Laboratorio 6\Lab 06\Data.Database\bin\Debug\Academia.Data.Database.pdb
+C:\Users\User\Desktop\Gonza\Drive PC\Facultad\4°\.Net\Laboratorios\Unidad 5\TP 2 - Laboratorio 6\Lab 06\Data.Database\bin\Debug\Academia.Business.Entities.dll
+C:\Users\User\Desktop\Gonza\Drive PC\Facultad\4°\.Net\Laboratorios\Unidad 5\TP 2 - Laboratorio 6\Lab 06\Data.Database\bin\Debug\Academia.Business.Entities.pdb
+C:\Users\User\Desktop\Gonza\Drive PC\Facultad\4°\.Net\Laboratorios\Unidad 5\TP 2 - Laboratorio 6\Lab 06\Data.Database\obj\Debug\Data.Database.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Gonza\Drive PC\Facultad\4°\.Net\Laboratorios\Unidad 5\TP 2 - Laboratorio 6\Lab 06\Data.Database\obj\Debug\Data.Database.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Gonza\Drive PC\Facultad\4°\.Net\Laboratorios\Unidad 5\TP 2 - Laboratorio 6\Lab 06\Data.Database\obj\Debug\Data.Database.csproj.CopyComplete
+C:\Users\User\Desktop\Gonza\Drive PC\Facultad\4°\.Net\Laboratorios\Unidad 5\TP 2 - Laboratorio 6\Lab 06\Data.Database\obj\Debug\Academia.Data.Database.dll
+C:\Users\User\Desktop\Gonza\Drive PC\Facultad\4°\.Net\Laboratorios\Unidad 5\TP 2 - Laboratorio 6\Lab 06\Data.Database\obj\Debug\Academia.Data.Database.pdb
